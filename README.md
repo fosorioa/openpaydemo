@@ -1,2 +1,0 @@
-# openpaydemo
-Created with CodeSandbox
